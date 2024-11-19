@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Luca!
 
 ### 👨‍💻 Backend Lead @ Barti Software  
-🌍 Working remotly but currently based in Italy | ✉️ [info@lucapalonca.com](mailto:info@lucapalonca.com) | 🌐 [lucapalonca.com](https://lucapalonca.com)
+🌍 Working remotly, currently based in Italy | ✉️ [info@lucapalonca.com](mailto:info@lucapalonca.com) | 🌐 [lucapalonca.com](https://lucapalonca.com)
 
 ---
 
