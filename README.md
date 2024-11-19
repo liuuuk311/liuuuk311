@@ -36,10 +36,4 @@ I'm always happy to chat about Python, backend development, or brainstorm ideas 
 
 ---
 
-### 📊 GitHub Stats  
-![Luca's GitHub stats](https://github-readme-stats.vercel.app/api?username=liuuuk311&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liuuuk311&layout=compact&theme=radical)
-
----
-
 Thanks for stopping by! 😄
