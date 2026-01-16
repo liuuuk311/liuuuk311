@@ -16,9 +16,8 @@ I'm a passionate backend developer with a knack for solving complex problems and
 
 ---
 
-### 🎯 Current Side Projects  
-- Building **FPVfinder**, a tool designed to find the best deals on FPV drone parts. 👉 [Check it out](https://fpvfinder.lucafpv.com)
-- Building **Velorly**, a tool to help web devs find leads and do automated outreach. 👉 [Check it out](https://velorly.com)
+### 🎯 Side Projects  
+- Building **HoneReply**, an AI-powered Chrome extension that generates engaging X replies in your own voice to boost visibility and grow your following. [HoneReply](https://honereply.com)
 - Exploring creative off-grid house renovation ideas and sustainable living concepts.
 
 ---
